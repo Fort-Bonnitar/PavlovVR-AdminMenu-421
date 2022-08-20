@@ -1,9 +1,12 @@
-Fort's Admin Menu For Pavlov VR(WIP):
+**Fort's Admin Menu For Pavlov VR(WIP):
 
 Currently, working on finalizing this project, currently this is working offline, working on getting the menu spawning correctly when playing online.  Also I am working on making an updated version for 4.27. This should work on either PC or Shack although it hasn't yet been tested on PC.
 
 
-Installation Instructions:
+
+
+
+***Installation Instructions:
 
 --Open this project 
 
@@ -29,7 +32,9 @@ Installation Instructions:
 
 
 
-Adding Custom Items/Skins/Vehicles:
+
+
+***Adding Custom Items/Skins/Vehicles:
 
 --To add any extras to the selection lists, find the datatable of the type asset you want to add in the SpawnList folder
   
@@ -42,9 +47,11 @@ Adding Custom Items/Skins/Vehicles:
 
 
 
-***If you have any trouble with installation, have any suggestions, or would like to help in the development of this menu please DM on discord  
 
 
-  FORTBONNITAR#6584                               
+*If you have any trouble with installation, have any suggestions, or would like to help in the development of this menu please DM on discord  
+
+
+  **FORTBONNITAR#6584                              
 
 (discord name is all caps)
