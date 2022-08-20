@@ -23,7 +23,7 @@ Installation Instructions:
 
 -After the folder is moved, right click your main content folder and select "Fix up redirectors in folder"
 
---if your project already has a gamelogic, player proxy, global info, or player info, you'll need to parent each to the Admin_ that corrisponds       E.x.  MyPlayerProxy needs to be reparented to Admin_PlayerProxy (This should not break anything but to be sure, it is HIGHLY advised to make a duplicate of your assets before attempting to reparent just in case something breaks) 
+--if your project already has a gamelogic, player proxy, or player info, you'll need to parent each to the Admin_ that corrisponds       E.x.  MyPlayerProxy needs to be reparented to Admin_PlayerProxy (This should not break anything but to be sure, it is HIGHLY advised to make a duplicate of your assets before attempting to reparent just in case something breaks) 
 
 
 
